@@ -31,7 +31,7 @@ The project utilizes a dataset encompassing census data and geographical data po
 
 ## Results
 
-The analysis indicates promising avenues for network optimization, including potential locations for new pickup points for improved efficiency. We estimate potential to be able to have 53.7% of the Bay Area addressable population within 5 miles of a pickup location with 9 pickup locations.
+The analysis indicates promising avenues for network optimization, including potential locations for new pickup points for improved efficiency. By strategically placing 9 additional pickup locations based on our analysis, we can potentially extend AGM's service coverage to encompass 53.7% of the Bay Area's population within a 5-mile radius, up from 8.3% in its current situation. This expansion represents a substantial increase in AGM's market penetration and accessibility, positioning AGM to better meet the demands of its target customer base.
 
 ## Usage
 
