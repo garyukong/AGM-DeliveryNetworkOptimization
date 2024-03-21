@@ -35,7 +35,7 @@ The analysis indicates promising avenues for network optimization, including pot
 
 ## Usage
 
-Note that this project requires access to Neo4j, an external postgres database and
+Note that this project requires access to Neo4j and an external postgres database connected to python using psycopg2.
 
 Libraries used are listed in the `requirements.txt` file.
 
